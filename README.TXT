@@ -1,1 +1,1 @@
-README.TXT
+Synchronisation test
